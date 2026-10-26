@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local account data (created when the program runs)
+account_data.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
